@@ -1,0 +1,2 @@
+You should add data at .\Data folder.
+Source: http://docs.cmtt.ru/special/searches.zip
